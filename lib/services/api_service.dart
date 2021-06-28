@@ -21,5 +21,6 @@ class ApiService {
       throw Exception("${response.statusCode} Can't get the News!");
     }
   }
+  
 
 }
